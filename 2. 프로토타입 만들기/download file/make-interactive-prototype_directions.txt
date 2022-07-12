@@ -1,0 +1,48 @@
+Make interactive prototypes (Directions)
+
+Go from idea to prototype in no time at all with Adobe XD. Design a simple, elegant layout for your mobile app, and then wire interactions to simulate the user experience.
+
+Start from scratch or download the sample files for a head start. Watch the video and then follow the steps below.
+
+DESIGN YOUR PROTOTYPE
+1. Open an .xd document, or use ours (prototype.xd).
+
+2. Click the gray thumbnail on the artboard, then click Repeat Grid. Drag the green handle to the right until three thumbnails appear.
+
+Tip: If necessary, put the cursor between the thumbnails and drag the gutter in or out until the thumbnails are centered.
+
+3. Open Finder on Mac, or Explorer on Windows, then drag the three images from the knots_details folder on to the thumbnail Repeat Grid.
+
+4. Click the green border of the Repeat Grid and drag the three thumbnails below the artboard.
+
+5. Make two copies of the artboard: Click the artboard name, select Edit > Duplicate. Do this twice to create two artboards.
+
+Tip: You can also use Cmd+D (macOS), or Ctrl+D (Windows), to duplicate.
+
+6. Click the gradient on the leftmost artboard, choose Edit > Copy, and then Edit > Paste.
+
+7. Click Repeat Grid and pull the green handle to create three copies of the rectangle. Place your cursor between images and drag until the margin is equal to the distance between artboards – in the sample file, the margins are 70px.
+8. Drag the three images from the knots_full folder on to the Repeat Grid, then click the pasteboard (the gray area) to deselect the Repeat Grid.
+
+9, Click the Repeat Grid to reselect it, right-click and choose Ungroup Grid, then right-click and choose Send to Back.
+
+10. Cmd+click (macOS), Ctrl+click (Windows), the product name, double-click to highlight it and type “Mustard floor cushion”.
+
+11. Right-click the outer edge of the text box and select Update All Symbols. Double-click the text in the second artboard and change “Mustard” to “Royal Blue” and the third artboard to “Red Wine”.
+
+WIRE YOUR PROTOTYPE
+1. Click Prototype at the top to switch to the Prototype workspace.
+
+2. Cmd+click, or Ctrl+click, on the thumbnail on the left, drag the little white arrow to the first artboard, and set the Transition to None. Repeat to connect the blue and red thumbnails to the corresponding artboards.
+
+Tip: The Transition, Easing, and Duration default to the previous settings so you don't have to change these each time.
+
+3. Click the set of three thumbnails, select Edit > Cut.
+
+5. Click the first artboard title and select Edit > Paste. Repeat for the remaining two artboards. Shift+click all three thumbnails and drag to align just below the large image on the artboards.
+
+5. Click Desktop Preview and click each thumbnail to preview the prototype.
+ 
+
+That’s it!
+To learn more, visit the Adobe XD CC Tutorials [[https://helpx.adobe.com/xd/tutorials.html]] page.

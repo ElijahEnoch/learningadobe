@@ -1,0 +1,26 @@
+Make style changes across artboards (Directions)
+
+Modify the look of your web and app prototypes faster by easily adjusting colors and character styles across artboards in Adobe XD.
+
+Start from scratch or download the sample files for a head start. Watch the video and then follow the steps below.
+
+MAKE GLOBAL CHANGES TO STYLES
+1. Open an .xd document, or use the sample files (global_changes.xd).
+2. Open the Assets panel, if it’s not open (View > Assets).
+
+Tip: You can also click the Assets icon on the lower left side of Adobe XD.
+
+3. Add a global color palette: Click the title of the Home artboard. Click the plus + sign next to Colors in the Assets panel to add the colors used on the artboard.
+
+4. Modify global colors and gradients:
+
+4a. Right-click the gradient color swatch and select Edit. Click the color stop on the far right of the gradient preview at the top of the Color Picker. Use the vertical slider on the far right to change the opacity. Notice the effect on all of the artboards where the gradient is used.
+
+4a. Right-click on a solid color swatch, such as purple or orange and select Edit. Use the sliders in the Color Picker to change the color. Notice the effect on all of the artboards where the color is used.
+
+5. Add global character styles: Click the title of the Saved Trip artboard. Click the plus + sign next to Character Styles in the Assets panel to add the character styles used on the artboard.
+
+6. Modify global character styles: Right-click on the character style (e.g., purple/blue text) and select Edit. Change the font size, style, or any other font properties and notice the changes on the artboards.
+
+That’s it!
+To learn more, visit the Adobe XD CC Tutorials [[https://helpx.adobe.com/xd/tutorials.html]] page.
